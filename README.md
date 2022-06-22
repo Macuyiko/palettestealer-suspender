@@ -15,7 +15,7 @@ See [this post](http://blog.macuyiko.com/post/2009/solving-color-problem-red-gra
 *   Age Of Empires 2: Age Of Kings (and The Conquerors) (note that the HD version and UPatch also fix the color issue)
 *   Starcraft (note that Blizzard fixed the color issue in a recent patch)
 *   Diablo 1
-*   Diable 2 (note that Blizzard fixed the color issue in a recent patch)
+*   Diablo 2 (note that Blizzard fixed the color issue in a recent patch)
 *   Star Wars: Galactic Battlegrounds
 *   Fallout 1
 *   Fallout 2
